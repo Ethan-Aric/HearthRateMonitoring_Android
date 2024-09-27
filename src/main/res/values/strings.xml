@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HeartbeatrateMonitor</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_heart_rate_records">当前未获取到心率记录</string>
+    <string name="Bluetoothrequest">连接心率设备需要您授予蓝牙权限</string>
+</resources>

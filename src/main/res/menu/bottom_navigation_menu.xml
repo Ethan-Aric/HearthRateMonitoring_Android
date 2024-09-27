@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_heart_rate"
+        android:icon="@drawable/ic_heart_rate4"
+        android:title="心率监测" />
+    <item
+        android:id="@+id/action_history"
+        android:icon="@drawable/ic_history2"
+        android:title="历史数据分析" />
+    <item
+        android:id="@+id/action_user"
+        android:icon="@drawable/ic_user_management1"
+        android:title="用户管理" />
+</menu>
